@@ -11,7 +11,7 @@
 <p> We had created this LexBot in N.Virginia</p>
 <p><h2> First we will create the LexBot in Amazon Lex </h2></p>
 <p>1.) Login in to your AWS account and in the search box type Amazon Lex</p>
-<p>2.) After clicking on Lex, click on GetStarted </p> !(img1.jpeg)
+<p>2.) After clicking on Lex, click on GetStarted </p> 
 <p>3.) Now click on Create Bot </p>
 <p>4.) Click on Custom Bot</p>
 <p>5.) Enter the name for your Bot</p>
