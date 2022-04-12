@@ -11,7 +11,7 @@
 <p> We had created this LexBot in N.Virginia</p>
 <p><h2> First we will create the LexBot in Amazon Lex </h2></p>
 <p>1.) Login in to your AWS account and in the search box type Amazon Lex</p>
-<p>2.) After clicking on Lex, click on GetStarted </p>
+<p>2.) After clicking on Lex, click on GetStarted </p> ![](img1.jpeg)
 <p>3.) Now click on Create Bot </p>
 <p>4.) Click on Custom Bot</p>
 <p>5.) Enter the name for your Bot</p>
@@ -27,4 +27,4 @@
 - Write Some 'Sample Utterances' for the customer to ask questions in different manners<br>
 - Enter Slot Values to ask question for the customer<br>
 - Enter response in the response card<br>
-- You can add confirmation Prompt (Optional) if needed<br>![Screenshot (7)](https://user-images.githubusercontent.com/53809138/162916178-1bf7a678-1ae9-4f69-b6dd-13446128d690.png)
+- You can add confirmation Prompt (Optional) if needed<br>
