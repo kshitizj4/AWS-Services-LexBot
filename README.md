@@ -12,6 +12,7 @@
 <p><h2> First we will create the LexBot in Amazon Lex </h2></p>
 <p>1.) Login in to your AWS account and in the search box type Amazon Lex</p>
 <p>2.) After clicking on Lex, click on GetStarted </p> 
+<p> ![img1](https://user-images.githubusercontent.com/53809138/162933695-282b25b2-2a82-41fb-a513-f2f1d458f8f1.jpeg) </p>
 <p>3.) Now click on Create Bot </p>
 <p>4.) Click on Custom Bot</p>
 <p>5.) Enter the name for your Bot</p>
